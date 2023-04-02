@@ -67,7 +67,7 @@ const positions = [
         transition={{ ease: "easeOut", duration: 0.15 }}
         className="mt-24 w-full"
       >
-        <h1 className="mt-36 font-bold text-4xl md:text-5xl mb-4">Hey, I'm Callum 👋</h1>
+        <h1 className="mt-36 font-bold text-4xl md:text-5xl mb-4">Hey, I'm UhFin 👋</h1>
         <p className="text-gray-800 dark:text-gray-300 leading-6 tracking-wide mb-12">
           I'm a fullstack developer, mainly working with NodeJS applications. I like to work on discord bot's, using discord.js, or working on sites for myself, my friends or for a project I am working on! I mainly use TypeScript, I have been using Lua more lately for another position I have within a gaming community.
         </p>
@@ -100,7 +100,7 @@ const positions = [
 
         <h2 className="font-medium text-3xl mb-4">Projects 🛠️</h2>
         <p className="text-gray-800 dark:text-gray-300 leading-6 font-light tracking-wide mb-6">
-          In my free time, I enjoy creating open source projects on{" "}
+          In my free time, I enjoy creating websites + projects on {" "}
           <a
             href="https://github.com/callumok2004"
             rel="noreferrer"
