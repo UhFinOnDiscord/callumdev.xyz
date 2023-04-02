@@ -16,48 +16,13 @@ interface AppProps {
 
 const positions = [
   {
-    name: "Wallswipe",
-    description: "A web application for finding and downloading new wallpapers, and creating collections to share!",
-    rank: "Lead Developer",
-    url: "https://wallswipe.com"
+    name: "nowhere lol",
+    description: "im a jobless man",
+    rank: "Lead Developer for myself",
+    url: "https://github.com/UhFinOnDiscord/"
   },
   {
-    name: "Recodive (PreMiD)",
-    description: "PreMiD is a simple, configurable utility that allows you to show what you're doing on the web in your Discord now playing status.",
-    rank: "Support Agent & Presence Developer",
-    url: "https://premid.app/"
-  },
-  {
-    name: "ZARP Gaming",
-    description: "An online gaming community focusing on Garry's Mod Servers.",
-    rank: "Community Developer",
-    url: "https://zarpgaming.com"
-  },
-  {
-    name: "buildergroop",
-    description: "A diverse and open community of ambitious gen-z builders, striving to build a better future.",
-    rank: "Team Member",
-    url: "https://discord.gg/rUWDQFCS4t"
-  },
-  {
-    name: "DDI Development",
-    description: "Home to Flow Music, a discord msuic bot in over 280k servers!",
-    rank: "Bot Developer",
-    url: "https://discord.gg/FrAgmAsjAj"
-  },
-  {
-    name: "Find Radios",
-    description: "FindRadios helps people to find and view radio stations all in one place!",
-    rank: "Website Developer",
-    url: "https://findradios.net"
-  },
-  {
-    name: "Helping Hands",
-    description: "Helping Hands is a community of people who are willing to help others who may be struggling with their mental health or just need someone to talk to.",
-    rank: "Developer",
-    url: "https://discord.gg/MvurE2QQVr"
-  },
-],
+
   Index = ({ stats, topRepos }: AppProps) => {
     return (
       <motion.div
