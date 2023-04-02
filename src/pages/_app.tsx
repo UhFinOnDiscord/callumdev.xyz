@@ -28,16 +28,16 @@ function MyApp({ Component, pageProps, router }: AppProps) {
     <>
       <Head>
         <meta charSet="utf-8" />
-        <title>Callum OKane</title>
+        <title>UhFin</title>
         <link rel="icon" href="/favicon.ico" />
         <meta name="viewport" content="width=device-width,initial-scale=1" />
         <meta name="theme-color" content="#000000" />
         <meta
           name="keywords"
-          content="callumok2004, Callum OKane, Callum, OKane, web developer, github, typescript, nextjs, discord, discordjs"
+          content="UhFin, Fin, web developer, github, typescript, nextjs, discord, discordjs"
         />
-        <meta name="description" content="Callum OKane - Software Engineer" />
-        <meta name="author" content="Callum OKane" />
+        <meta name="description" content="UhFin - Software Engineer" />
+        <meta name="author" content="UhFin" />
         <link rel="apple-touch-icon" href="/apple-touch-icon.png" />
       </Head>
 
